@@ -5,5 +5,5 @@
 #https://gitee.com/vincent-boat/ML-learn.git
 #git@gitee.com:vincent-boat/ML-learn.git
 --------------
-该项目主要为学习各经典神经网络结构
+该项目主要为学习各经典神经网络结构(关联gitee、github)
 
